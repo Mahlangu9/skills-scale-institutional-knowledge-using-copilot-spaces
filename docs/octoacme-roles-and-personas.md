@@ -2,7 +2,7 @@
 
 This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
 
----
+------
 
 ## Developers
 
@@ -74,6 +74,14 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 - Coordination via project boards and meeting facilitation
 
 ---
+
+## Release Manager
+
+### Interactions with Existing Roles
+- Works with the Project Manager on schedules, risks, and coordination
+- Partners with Product Managers on technical trade-offs
+- Coordinates with Developers and Engineering leads on implementation
+- Works with QA on integration and release validation
 
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
